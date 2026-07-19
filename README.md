@@ -40,15 +40,15 @@ Copyright: ECE 6720, Kyle G. Gayliyev  - This work may not be copied for use in 
 
 - An amplifier
 - A regulator
-- Current mirror.
+- Current mirror
 
 ## Finished Design Screenshots From Cadence Virtuoso: 
 
-![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/5.Cadence1 .jpg)
+![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/5.Cadence1.jpg)
 
-![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/6.Cadence2 .jpg)
+![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/6.Cadence2.jpg)
 
-![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/7.Cadence3 .jpg)
+![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/7.Cadence3.jpg)
 
 ## Final Report:
 
