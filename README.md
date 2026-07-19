@@ -19,6 +19,12 @@ Copyright: ECE 6720, Kyle G. Gayliyev  - This work may not be copied for use in 
 * The voltage regulator will have a wide-bandwidth and high DC gain in order to suppress the supply noise.
 * A current distribution network is applied for producing the necessary bias currents for the regulator circuit and the amplifier.
 
+## The Wide Band Amplifier Circuit Consists of The Following Component Designs: 
+
+- An amplifier
+- A regulator
+- Current mirror
+
 ## Specifications: 
 
 ![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/1.Specifications.jpg)
@@ -35,12 +41,6 @@ Copyright: ECE 6720, Kyle G. Gayliyev  - This work may not be copied for use in 
 ## Current Mirror Specifications: 
 
 ![alt text](https://github.com/ggayliye/ECE6720_F_AnalogCircDes/blob/main/.mat/4.Curr_Mirr_Specifications.jpg)
-
-## The Wide Band Amplifier Circuit Consists of The Following Component Designs: 
-
-- An amplifier
-- A regulator
-- Current mirror
 
 ## Finished Design Screenshots From Cadence Virtuoso: 
 
